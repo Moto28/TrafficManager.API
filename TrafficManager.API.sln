@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficManager.API", "TrafficManager.API\TrafficManager.API.csproj", "{ABFB763D-7E52-4134-84CF-9234C1EFE58E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{4E1EB09A-BF3C-4E75-832A-A024A3D157F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFB763D-7E52-4134-84CF-9234C1EFE58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFB763D-7E52-4134-84CF-9234C1EFE58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFB763D-7E52-4134-84CF-9234C1EFE58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFB763D-7E52-4134-84CF-9234C1EFE58E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ABFB763D-7E52-4134-84CF-9234C1EFE58E} = {4E1EB09A-BF3C-4E75-832A-A024A3D157F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE1A810F-5FD0-4D3A-A5FD-7FF8CBF3736F}
+	EndGlobalSection
+EndGlobal
